@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.exe.config
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.exe
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.pdb
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.exe
+C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.pdb
