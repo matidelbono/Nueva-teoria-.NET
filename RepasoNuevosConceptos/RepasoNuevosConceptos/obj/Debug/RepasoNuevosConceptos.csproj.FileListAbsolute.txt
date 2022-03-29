@@ -5,3 +5,13 @@ C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\De
 C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.exe
 C:\Users\Usuario\source\repos\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.pdb
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.exe
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.pdb
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.exe.config
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.exe
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\RepasoNuevosConceptos.pdb
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\logica.dll
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\bin\Debug\logica.pdb
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\RepasoNuevosConceptos\obj\Debug\RepasoNuevosConceptos.csproj.CopyComplete

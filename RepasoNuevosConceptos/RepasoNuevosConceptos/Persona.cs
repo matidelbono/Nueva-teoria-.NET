@@ -18,8 +18,8 @@ namespace RepasoNuevosConceptos
             }
             set
             {
-                this.nombre = value.Split('')[0];
-                this.Apellido = value.Split('')[1];
+                this.nombre = value.Split()[0];
+                this.Apellido = value.Split()[1];
             }
 }
     }

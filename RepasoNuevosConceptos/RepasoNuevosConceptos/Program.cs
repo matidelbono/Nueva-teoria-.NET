@@ -41,16 +41,26 @@ namespace RepasoNuevosConceptos
             Datos_Personales datos = new Datos_Personales();
             datos.ReemplazarEdad(10);
             // Excepciones
-            Console.WriteLine("ingresar un numero positivo");
-            string ingreso = Console.ReadLine();
-
+            Console.WriteLine("ingrese el primer numero");
+            int Numero1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese el segundo numero");
+            int Numero2 = int.Parse(Console.ReadLine());
+            int Resultado = 0;
             try
             {
-                  NumeroPositivo = int.Parse(ingreso);
+                Resultado = Numero1 / Numero2;
             }
             catch(Exception e)
             {
-                NumeroPositivo = -1;
+                Numero2 = 0;
             }
+            finally
+            {
+                if (Numero2==0)
+                {
+                    Console.WriteLine("Se ha producido un error");
+                }
+            }
+        }
     }
 }
