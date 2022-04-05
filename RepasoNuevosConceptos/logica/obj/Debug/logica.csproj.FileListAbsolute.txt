@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\bin\Debug\logica.dll
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\bin\Debug\logica.pdb
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\obj\Debug\logica.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\obj\Debug\logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\obj\Debug\logica.dll
+C:\Users\Usuario\Documents\CodigodeRepaso\Nueva-teoria-.NET\RepasoNuevosConceptos\logica\obj\Debug\logica.pdb
